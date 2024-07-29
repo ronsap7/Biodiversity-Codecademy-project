@@ -37,3 +37,5 @@
 `jupyter notebook `
 
 #### Load and Run the Notebook: Open the provided Jupyter Notebook file `biodiversity.ipynb` and run the cells step by step to perform the analysis.
+
+##### This project is made by Rohan Sapate for Codecademy Business intelligence Data Analyst course.
